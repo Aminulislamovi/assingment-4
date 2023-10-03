@@ -50,5 +50,5 @@ console.log(myAddress);
 
 
 function canPay(changeArray, totalDue) {
-    
+
 }
